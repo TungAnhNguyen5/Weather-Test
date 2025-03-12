@@ -32,21 +32,21 @@ This is a simple **React + Vite** application that displays the **current time**
 time-weather-app/
 │
 ├── public/
-│   └── vite.svg             # Default Vite asset (replaceable)
+│   └── vite.svg             
 │
 ├── src/
-│   ├── assets/              # Folder for images and static assets
+│   ├── assets/              
 │   ├── App.jsx              # Main App component
 │   ├── App.css              # App styling
 │   ├── index.css            # Global styles
 │   ├── main.jsx             # React DOM rendering
 │
-├── .gitignore               # Files and folders to ignore in git
-├── package.json             # Project metadata and dependencies
-├── package-lock.json        # Exact dependency tree
+├── .gitignore               
+├── package.json             
+├── package-lock.json       
 ├── vite.config.js           # Vite configuration
 ├── index.html               # App HTML entry point
-└── eslint.config.js         # Linting configuration
+└── eslint.config.js         
 ```
 
 ---
