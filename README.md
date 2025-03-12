@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a simple **React + Vite** application that displays the **current time**, **user's location**, and **weather information**. It is designed as a **beginner-friendly exercise** to explore core React concepts and working with external APIs like Geolocation and Weather APIs.
+This is a simple **React + Vite** application that displays the **current time**, **user's location**, and **weather information**. It is a **beginner-friendly exercise** to explore core React concepts and working with external APIs like Geolocation and Weather APIs.
 
 ---
 
